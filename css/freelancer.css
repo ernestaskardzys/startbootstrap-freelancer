@@ -141,6 +141,7 @@ header .intro-text .hi-text {
 }
 section {
   padding: 100px 0;
+  height: 100vh;
 }
 section h2 {
   margin: 0;
